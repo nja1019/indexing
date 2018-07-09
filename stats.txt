@@ -1,0 +1,4 @@
+Shortest Scene: antony_and_cleopatra:2.8   Length: 47 words 
+Shortest Play: comedy_of_errors   Length: 16415 words 
+Longest Play: hamlet   Length: 32867 words 
+Average Scene Length: 1199.55615234375 words 

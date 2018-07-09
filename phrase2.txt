@@ -1,0 +1,5 @@
+coriolanus:2.0
+julius_caesar:2.0
+life_and_death_of_king_john:1.0
+much_ado_about_nothing:3.0
+twelfth_night:4.0
